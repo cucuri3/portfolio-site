@@ -1,0 +1,47 @@
+body {
+    min-height: 100vh;
+    background-color: #000000;
+    margin: 0 auto;
+}
+
+nav{
+    margin: 20px 100px;
+}
+
+.upper{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.upper img{
+    vertical-align: middle;
+}
+
+img{
+    vertical-align: bottom;
+}
+
+.contents{
+    margin-top: 5%;
+    margin-bottom: 6%;
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+    margin-top: 20px;
+}
+
+footer p{
+    color: #ffffff;
+    font-size: 10pt;
+    font-family: "Noto Sans KR", serif;
+    margin-top: 0;
+    margin-bottom: 30px;
+}
+
+footer img{
+    margin: 10px;
+    vertical-align: middle;
+}
